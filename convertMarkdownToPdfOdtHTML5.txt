@@ -1,0 +1,16 @@
+# Convert the Markdown to PDF or ODT using PANDOC
+
+# Navigate to this folder in terminal
+
+## Convert to PDF
+
+#enter the following into terminal
+
+pandoc -f markdown -t latex -N -V geometry:margin=1in Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter pandoc-citeproc --latex-engine=xelatex --toc -o Abstract_WhatDoesAGlobalAddressFrameworkLookLike.pdf
+
+## Convert to ODT
+
+#enter the following into terminal
+
+pandoc -f markdown Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter pandoc-citeproc  --toc -o Output/Abstract_WhatDoesAGlobalAddressFrameworkLookLike.odt
+
