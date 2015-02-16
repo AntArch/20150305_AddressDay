@@ -16,3 +16,13 @@ pandoc -f markdown -t latex -N -V geometry:margin=1in Abstract_WhatDoesAGlobalAd
 
 pandoc -f markdown Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter pandoc-citeproc  --toc -o Outputs/Abstract_WhatDoesAGlobalAddressFrameworkLookLike.odt
 
+## Convert to HTML5
+
+#enter the following into terminal
+
+pandoc -t html5 --template=template-revealjs.html \
+    --standalone --section-divs \
+  --variable theme="beige" \
+  --variable transition="cube" \
+  20150305_ARB_DIAS_Presentation.md -o Presentation/20150305_ARB_DIAS_PresentationbeigeCube.html
+
