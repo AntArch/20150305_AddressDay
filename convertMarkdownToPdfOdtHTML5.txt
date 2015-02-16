@@ -2,15 +2,17 @@
 
 # Navigate to this folder in terminal
 
+cd /home/arb/ownCloud/Events/20150305_AddressDay/GitRepository/20150305_AddressDay
+
 ## Convert to PDF
 
 #enter the following into terminal
 
-pandoc -f markdown -t latex -N -V geometry:margin=1in Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter pandoc-citeproc --latex-engine=xelatex --toc -o Abstract_WhatDoesAGlobalAddressFrameworkLookLike.pdf
+pandoc -f markdown -t latex -N -V geometry:margin=1in Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter pandoc-citeproc --latex-engine=xelatex -o Outputs/Abstract_WhatDoesAGlobalAddressFrameworkLookLike.pdf
 
 ## Convert to ODT
 
 #enter the following into terminal
 
-pandoc -f markdown Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter pandoc-citeproc  --toc -o Output/Abstract_WhatDoesAGlobalAddressFrameworkLookLike.odt
+pandoc -f markdown Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter pandoc-citeproc  --toc -o Outputs/Abstract_WhatDoesAGlobalAddressFrameworkLookLike.odt
 
