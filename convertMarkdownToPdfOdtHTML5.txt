@@ -20,9 +20,30 @@ pandoc -f markdown Abstract_WhatDoesAGlobalAddressFrameworkLookLike.md --filter 
 
 #enter the following into terminal
 
-pandoc -t html5 --template=template-revealjs.html \
+cd /home/arb/ownCloud/Events/20150305_AddressDay/GitRepository/20150305_AddressDay
+
+pandoc -t html5 --template=Presentation/template-revealjs.html \
     --standalone --section-divs \
   --variable theme="beige" \
   --variable transition="cube" \
   20150305_ARB_DIAS_Presentation.md -o Presentation/20150305_ARB_DIAS_PresentationbeigeCube.html
 
+#enter the following into terminal
+
+cd /home/arb/ownCloud/Events/20150305_AddressDay/GitRepository/20150305_AddressDay
+
+pandoc -t html5 --template=Presentation/template-revealjs.html \
+    --standalone --section-divs \
+  --variable theme="nightAnt" \
+  --variable transition="slide" \
+  20150305_ARB_DIAS_Presentation.md -o Presentation/20150305_ARB_DIAS_PresentationbeigeCube.html
+
+#enter the following into terminal
+
+cd /home/arb/ownCloud/Events/20150305_AddressDay/GitRepository/20150305_AddressDay
+
+pandoc -t html5 --template=Presentation/template-revealjs.html \
+    --standalone --section-divs \
+  --variable theme="nightAnt" \
+  --variable transition="slide" \
+  20150305_ARB_DIAS_Presentation.md --filter pandoc-citeproc -o Presentation/20150305_ARB_DIAS_PresentationbeigeCube.html

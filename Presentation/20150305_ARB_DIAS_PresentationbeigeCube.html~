@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
+<title>What does a Global Address Framework look like?</title>
+
+<meta name="description" content="What does a Global Address Framework look like?">    
+
+  <meta name="author" content="Anthony Beck - Address Day - 2015-03-05" />
+
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link rel="stylesheet" href="css/reveal.min.css">
+  <link rel="stylesheet" href="css/theme/nightAnt.css" id="theme">
+
+
+<!-- For syntax highlighting -->
+  <link rel="stylesheet" href="lib/css/zenburn.css">
+
+
+<!-- If the query includes 'print-pdf', use the PDF print sheet -->
+<script>
+  document.write( '<link rel="stylesheet" href="css/print/' +
+    ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + 
+    '.css" type="text/css" media="print">' );
+</script>
+
+<!--[if lt IE 9]>
+<script src="lib/js/html5shiv.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<div class="reveal">
+
+<!-- Any section element inside of this container is displayed as a slide -->
+<div class="slides">
+
+<section>
+<h1>What does a Global Address Framework look like?</h1>
+<h3>Anthony Beck - Address Day - 2015-03-05</h3>
+<p>
+<h4></h4>
+</p>
+</section>  
+
+
+<section id="what-does-a-global-address-framework-look-like" class="level1">
+<h1>What does a Global Address Framework look like?</h1>
+<p>Unless states otherwise all content is under a CC-BY licence</p>
+<figure>
+<img src="/home/arb/Dropbox/Public/ImageBank/CC_BY.png" />
+</figure>
+<figure>
+<img src="/home/arb/Dropbox/Public/ImageBank/Lego_Head_ARB.png" />
+</figure>
+<p>You can access this presentation on github:</p>
+<p>https://github.com/AntArch/20150305_AddressDay.git</p>
+</section>
+<section id="addresses" class="level1">
+<h1>Addresses</h1>
+<section id="are-part-of-everyday-life" class="level2">
+<h2>are part of everyday life</h2>
+<figure>
+<img src="/home/arb/Dropbox/Public/ImageBank/AnAddressMap.png" />
+</figure>
+</section>
+<section id="section" class="level2">
+<h2></h2>
+<figure>
+<img src="/home/arb/Dropbox/Public/ImageBank/AnAddressMapZoom.png" />
+</figure>
+</section>
+<section id="section-1" class="level2">
+<h2></h2>
+<figure>
+<img src="https://farm9.staticflickr.com/8334/8076658843_bb93c499c9_z_d.jpg" />
+</figure>
+<p><span class="citation" data-cites="kaye_map_2012">(Kaye 2012)</span></p>
+</section>
+<section id="governance" class="level2">
+<h2>Governance</h2>
+<figure>
+<img src="https://farm6.staticflickr.com/5204/5201270923_f02844bb41_z_d.jpg" />
+</figure>
+<p><span class="citation" data-cites="appelo_governance_2010">(Appelo 2010)</span></p>
+<ul>
+<li>Without an address, it is harder for individuals to register as legal residents.</li>
+<li>They are excluded from access to public services and institutions, and denied the rights of citizenship.</li>
+<li>This includes access to democracy.</li>
+</ul>
+</section>
+<section id="urban-development" class="level2">
+<h2>Urban Development</h2>
+<figure>
+<img src="https://farm3.staticflickr.com/2497/3726821378_8104f955e2_z_d.jpg?zz=1" />
+</figure>
+<p><span class="citation" data-cites="crowley_kibera_2009">(Crowley 2009)</span></p>
+<ul>
+<li>Managing rural to urban migration.</li>
+<li>Informal settlements housing the urban poor.</li>
+<li>Weak infrastructure - exclusion from basic services (water / sanitation etc).</li>
+</ul>
+</section>
+<section id="legal-and-social-integration" class="level2">
+<h2>Legal and Social integration</h2>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Stufen_Schulischer_Integration_enGB.svg/500px-Stufen_Schulischer_Integration_enGB.svg.png" />
+</figure>
+<p><span class="citation" data-cites="beck_social_integration_2015">(Beck 2015)</span></p>
+<ul>
+<li>Formal versus Informal</li>
+<li>Barring individuals and businesses from finance, the law, gvnmt systems etc.</li>
+</ul>
+</section>
+<section id="security" class="level2">
+<h2>Security</h2>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Walking_away_from_the_Third_World.jpg/640px-Walking_away_from_the_Third_World.jpg" />
+</figure>
+<p><span class="citation" data-cites="walking_1992">(Pavliga 1992)</span></p>
+<ul>
+<li>Spatial structure.</li>
+<li>Addresses help to identify, locate and access marginalized areas.</li>
+</ul>
+</section>
+<section id="economy-and-commerce" class="level2">
+<h2>Economy and commerce</h2>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_UPU.svg/640px-Flag_of_UPU.svg.png" />
+</figure>
+</section>
+<section id="sustainability-and-risk-management" class="level2">
+<h2>Sustainability and risk management</h2>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OSM_Haiti_mapping_-_Mapping.jpg/320px-OSM_Haiti_mapping_-_Mapping.jpg" />
+</figure>
+<p><span class="citation" data-cites="haiti_osm_2010">(Huffman 2010)</span></p>
+<ul>
+<li>Addresses support
+<ul>
+<li>sustainability</li>
+<li>resilience</li>
+<li>disaster management</li>
+</ul></li>
+</ul>
+</section>
+<section id="global-wellbeing" class="level2">
+<h2>Global Wellbeing</h2>
+<figure>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Personal_wellbeing_in_the_UK_2012_-_13.png" />
+</figure>
+<p><span class="citation" data-cites="wellbeing_2013">(Cummings 2013)</span></p>
+</section>
+</section>
+<section id="the-disenfranchised" class="level1">
+<h1>The disenfranchised?</h1>
+<p>Pictures of Wamba here</p>
+<p>Percentage in Africa</p>
+</section>
+<section id="addresses-are-important" class="level1">
+<h1>Addresses are important</h1>
+<p>It matters when you don't have one</p>
+</section>
+<section id="addresses-have-global-impact" class="level1">
+<h1>Addresses have global impact</h1>
+<p>At a national level addresses provide benefits to the individual and the state.</p>
+</section>
+<section id="does-this-mean-we-need-a-global-addressing-framework" class="level1">
+<h1>Does this mean we need a global addressing framework?</h1>
+</section>
+<section id="addressing-the-world" class="level1">
+<h1>Addressing the world</h1>
+<p>Different approaches</p>
+<section id="past-work" class="level2">
+<h2>Past work</h2>
+<p><span class="citation" data-cites="_addressing_2012">UPU (2012)</span></p>
+<p>Put photograph of book here</p>
+</section>
+</section>
+<section id="problems-in-using-address-infrastructure-approaches" class="level1">
+<h1>Problems in using <em>address infrastructure</em> approaches</h1>
+<section id="section-2" class="level2">
+<h2></h2>
+<p>The recommendations in the white paper are driven by an assumption that <em>credible addresses</em> require an underlying <em>address infrastructure</em>:</p>
+<blockquote>
+<p>Political willpower is the key to guaranteeing that an address infrastructure is developed for the benefit of all. Investment in address infrastructure is investment for the good of the national economy and the body politic <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.41)</span>.</p>
+</blockquote>
+<p>A number of disadvantages become apparent:</p>
+</section>
+<section id="the-focus-is-on-formal-and-urban-and-not-on-global-and-informal-need" class="level2">
+<h2>The focus is on <em>formal and urban</em> and not on <em>global and informal</em> need</h2>
+<p>Whilst it is important that national address requirements are met, these should not exclude the global and informal addressing needs. The UPU stakeholders have already identified problems in national address frameworks where formal systems conflict with informal slum development or addressing services are denied to undermine social legitimacy. This means that informal and rural addressing needs are likely to be low on the national agenda. It is due to these very problems that projects like <a href="http://mapkibera.org/">Map Kibera</a> have been established.</p>
+<p>The Tanzania case study concluded with the following comment:</p>
+<blockquote>
+<p>A country must have the political will to successfully implement a physical address and postcode system <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.49)</span>.</p>
+</blockquote>
+<p>What happens when a country is so destabilised that the political will does not exist<a href="#fn1" class="footnoteRef" id="fnref1"><sup>1</sup></a>. It is in such situations that the humanitarian dimension may be paramount. The ability to assign addresses using a repeatable address infrastructure agnostic framework based upon remote sensing data or its derivatives (such as OSM) will provide a key data set for decision makers co-ordinating relief.</p>
+<p><strong>A global addressing framework should meet the needs of the rural, urban, formal and informal communities equally.</strong></p>
+</section>
+<section id="address-creation-is-not-transparent" class="level2">
+<h2>Address creation is not transparent</h2>
+<p>The means of address production using address infrastructure are not transparent. Whilst transparency and reproducibility should be characteristics of addresses as a <strong>human-made impure global public good</strong>, this may not materialise in practice. For example in the UK, which has a mature addressing framework, it is impossible to predict what the address of a new property will be: the street names are allocated in a non-predictable way. In a disaster scenario the ability to create addresses independently from a formal body in a reproducible way may be crucial to facilitate multi-agency co-operation.</p>
+<p><strong>A global addressing framework needs to be transparent and reproducible.</strong></p>
+</section>
+<section id="address-creation-is-decoupled-from-its-spatial-element" class="level2">
+<h2>Address creation is decoupled from its spatial element</h2>
+<p>An address based on <em>address infrastructure</em> is a relative referencing system that does not immediately lend itself to a co-ordinate or polar spatial representation framework and does not implicitly provide an accurate spatial location. Official and third party geocoding and reverse geocoding services are required to find out the spatial reference of the address. However, there is still likely to be some spatial ambiguity as the address framework and the spatial framework are essentially decoupled.</p>
+<p>It is rare to see nations adopting the strategy described in the Danish case study <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.52)</span>:</p>
+<blockquote>
+<p>Note that the addressing system is first and foremost defined as a spatial reference system, which should enable safe “navigation” in the real world. The definition underlines the multipurpose aspect of addressing and does not prioritize postal services or an administrative “government” perspective. Note also that the purpose of address data registration is to make the data available as a common reference in a uniform way (i.e. in a standardized format) for citizens and private and public users.</p>
+</blockquote>
+<p><strong>A global addressing framework should be based on a spatial reference system.</strong></p>
+</section>
+<section id="a-national-address-framework-does-not-mean-an-open-address-framework" class="level2">
+<h2>A national address framework does not mean an open address framework</h2>
+<p>Full transparency would also entail that an address database is open. National address gazetteers tend to be proprietary and available for sale. This introduces an obvious barrier to re-use and whilst local knowledge can be used for small-scale applications this is difficult to scale to a regional or national level without <em>purchasing</em> the underlying <em>address infrastructure</em> data and where necessary spatially enabling it. This has obvious implications in a disaster scenario - whilst the UK may have in-built resilience to a range of disaster scenarios the same can not be said for developing countries.</p>
+<p>The Department for Business Innovation and Skills and Jeni Tennison at the <a href="https://theodi.org/">Open Data Institute</a> have both described the need for Open Addressing in the UK <span class="citation" data-cites="bis_open_2014">(BIS 2014, <span class="citation" data-cites="tennison_open_2014">Tennison (2014)</span>)</span>. With the exception of the UK Postal Address File advisory board and Royal Mail there was support for the proposed UK Open National Address Gazetteer (<span class="citation" data-cites="bis_open_2014">BIS (2014)</span>) across the respondents with some notable calls for the <em>Totally Open</em> option. <strong>Addresses are seen as a core reference data set</strong>. The open provision of a UK Unique Property Reference Number<a href="#fn2" class="footnoteRef" id="fnref2"><sup>2</sup></a> encourages product interoperability.</p>
+<p>One of the respondants (<strong>David Rhind <em>Chair of the Advisory Panel on Public Sector Information</em> (APPSI)</strong>) stated:</p>
+<blockquote>
+<p>In conclusion, the addressing data situation has festered for far too long. Address data and specific locations attached to them are part of Core Reference data sets recognised by government as a key component of our National Information Infrastructure (as long argued by APPSI). The report published by BIS gives us a chance to democratise access to addressing data and meet many of the Government’s avowed intentions. We urge acceptance of Option 6 <em>(freemium)</em> or 7 <em>(an independent open data product)</em>.</p>
+</blockquote>
+<p>The situation is best summarised in the Danish case study <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.54)</span>:</p>
+<blockquote>
+<p>Address data should be available for all users with as few barriers as possible. If this is not the case, the use of addresses as a common reference will not yield the otherwise significant benefits.</p>
+</blockquote>
+<p><strong>A global addressing framework will be a Core Reference data set and should therefore be open or available with as few barriers as possible.</strong></p>
+</section>
+<section id="creating-a-complete-address-infrastructure-has-time-and-cost-implications" class="level2">
+<h2>Creating a complete address infrastructure has time and cost implications</h2>
+<p>The case studies in the white paper <span class="citation" data-cites="_addressing_2012">(UPU 2012, pp.45–67)</span> provide a number of insights into the issues associated with creating an <strong>address infrastructure</strong>. Whilst the World Bank reports that <em>street addressing requires few resources and only a short implementation timeframe</em>, their <em>address infrastructure</em> implementation lifecycle is complex and assumes pre-existing entities <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.79)</span>:</p>
+<ul>
+<li>Create or update mapping of the city (1:10000);</li>
+<li>Codify streets in order to facilitate spatial location of buildings, infrastructure and land (includes doorway numbering and street signs);</li>
+<li>Conduct neighbourhood-level surveys;</li>
+<li>Establish a simple computerized database system and a street index;</li>
+<li>Set up a reference for multiple municipal applications (e.g. solid waste, road maintenance, mail, fire/ambulance service, epidemic prevention, urban information systems, land management, public asset management, fiscal management).</li>
+</ul>
+<p>The case studies demonstrate that establishing an address infrastructure is more complex<a href="#fn3" class="footnoteRef" id="fnref3"><sup>3</sup></a>. The Tanzania respondents reported that the urban project required <em>significant funding</em> <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.48)</span>. The Costa Rica case study required a <em>bespoke orthorectified image of the whole country</em> <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.60)</span> (interestingly the Costa Rica project cost $6.3 million dollars (not including the flights and processing) the majority of which (76%) was spent on signage <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.62)</span>).</p>
+<p>The time to develop the required <em>address infrastructure</em> is significant and can be severely protracted when issues of formal and informal settlement type are encountered or if urban systems are extended into rural areas.</p>
+<p><strong>A global addressing framework needs to be lightweight and cheap so it can be implemented in a timely manner.</strong></p>
+</section>
+<section id="an-address-infrastructure-is-not-required-in-order-to-realise-the-benefits-of-an-address-framework" class="level2">
+<h2>An <em>address infrastructure</em> is not required in order to realise the benefits of an <em>address framework</em></h2>
+<p>The requirement of an <em>address infrastructure</em> in the age of GNSS, high resolution civilian satellite images, GIS vehicle routing and other technical achievements seems somewhat antiquated. Whilst it is not denied that <em>address infrastructure</em> helps people conceptualise and visualize an address the reality is that most people and organisations in the developed world use SatNav and GIS technology for routing and logistics. There is lag in developing countries. But it is lag and will be resolved over time. The Costa Rica case study has recognised this and have a postcode system which allows the unique identification of every <em>delivery point</em>. At 19 digits it is somewhat unwieldy but it does exist <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.61)</span>.</p>
+<p>More critically what happens when the <em>address infrastructure</em> simply does not exist?</p>
+<blockquote>
+<p>In Africa, less than 40% of the population has access to electricity, only 34% has access to improved sanitation, and 65% has access to clean water. <strong>Only about one third of the rural population has access to roads</strong> <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.71)</span>.</p>
+</blockquote>
+<p>You can't give a street name to something that doesn't exist.</p>
+<p><strong>A global addressing framework needs to be independent of national <em>address infrastructure.</em></strong></p>
+<p>However, many of the <em>social</em> and <em>political</em> elements of an address framework are realised if the underlying address framework is <em>credible</em>. This means the address framework must be acceptable to a range of different formal bodies (state, court, bank etc.). Acceptance of a Global Address Framework by different <em>formal</em> bureaucracies is likely to be difficult.</p>
+<p><strong>A global addressing framework needs <em>credibility</em> to be used as a <em>formal address.</em></strong></p>
+</section>
+<section id="is-the-national-addressing-infrastructure-fit-for-a-globalized-future" class="level2">
+<h2>Is the national addressing infrastructure fit for a globalized future?</h2>
+<p>Addressing efficiency is demanded by global businesses which may want to ignore fiat boundaries. Hence, cross-border address interoperability is critical as is full and transparent articulation of the spatial component of the address (so that logistic efficiency can be maximised). The address pull of globalization is matched by the innovation push of technology.</p>
+<p>It is this lens which will shape the future of global addressing. Organisations like Amazon need a spatially enabled global addressing framework that realises a negligible marginal delivery cost. There is as yet no global addressing framework. Whilst formal credibility is a benefit it is not as significant as pragmatic efficiency.</p>
+<p>Within this setting Drone technology has the potential to significantly disrupt traditional delivery services and humanitarian relief approaches.</p>
+<p>It is unlikely that a global address framework will emerge seamlessly from the national addressing systems in the near future. As described by the Danish case study <span class="citation" data-cites="_addressing_2012">(UPU 2012, p.51)</span></p>
+<blockquote>
+<p>More importantly, the approach promoted a situation in which each administrative system created its own understanding of addresses, so that different address definitions and structures arose. Consequently, each register attempted to define, justify and sometimes also promote its own “type” of address as something special (e.g. dwelling addresses, property addresses, utility addresses, business addresses), thus undermining the cross-sector and multipurpose aspects of the addressing system.</p>
+</blockquote>
+<p>It is even more unlikely that a global address framework will emerge which explicitly expresses the spatial component of the address without an enabling geocoder.</p>
+<p><strong>The success of a global addressing framework should be measured by its adoption by organisations and bodies with an intrinsically Global, as opposed to National, outlook.</strong></p>
+</section>
+</section>
+<section id="addressing-the-world-1" class="level1">
+<h1>Addressing the world</h1>
+<section id="rethinking-the-problem" class="level2">
+<h2>Rethinking the problem</h2>
+<p>Address infrastructure is so........</p>
+<p>last millenium.</p>
+</section>
+<section id="bureacratic" class="level2">
+<h2>Bureacratic</h2>
+</section>
+<section id="opaque" class="level2">
+<h2>Opaque</h2>
+<p>Insert a picture - inputs and ouputs. One is joined up by a black box - one is joined up by a white box (which exposes the machine that creates the outputs).</p>
+</section>
+<section id="not-easily-scalable" class="level2">
+<h2>Not easily scalable</h2>
+</section>
+<section id="socially-exclusive" class="level2">
+<h2>Socially exclusive</h2>
+</section>
+<section id="not-providing-a-global-public-good" class="level2">
+<h2>Not providing a <em>Global Public Good</em></h2>
+</section>
+</section>
+<section id="what-type-of-economic-good-is-an-address" class="level1">
+<h1>What type of economic 'good' is an address?</h1>
+</section>
+<section id="what-do-we-want-global-addresses-to-do" class="level1">
+<h1>What do we want global addresses to do?</h1>
+<section id="spatially-enabled-society" class="level2">
+<h2>Spatially enabled society</h2>
+<blockquote>
+<p>'<strong>Such data and information must be available in a free, efficient, and comprehensive way in order to support the sustainable development of society.</strong></p>
+</blockquote>
+<blockquote>
+<p><strong>It therefore needs to be organized in such a way that it can easily be shared, integrated, and analysed to provide the basis for value-added services.</strong>'</p>
+</blockquote>
+<blockquote>
+<p><span class="citation" data-cites="steudler_spatially_2012">(Steudler &amp; Rajabifard 2012, p.18)</span></p>
+</blockquote>
+</section>
+</section>
+<section id="who-will-do-this" class="level1">
+<h1>Who will do this?</h1>
+<section id="goo--apple--soft--oo" class="level2">
+<h2>Goo--apple--soft--oo</h2>
+<p>Insert picture of driverless car</p>
+<blockquote>
+<p><strong>They are outflanking and disrupting companies that follow less ambitious corporate strategies, including the geospatial data sector.</strong>'</p>
+</blockquote>
+<blockquote>
+<p><span class="citation" data-cites="steudler_spatially_2012">(Steudler &amp; Rajabifard 2012, pp.53)</span></p>
+</blockquote>
+</section>
+<section id="the-citizens---osm" class="level2">
+<h2>The Citizens - OSM</h2>
+<p>OSM</p>
+</section>
+</section>
+<section id="interoperability" class="level1">
+<h1>Interoperability</h1>
+<section id="section-3" class="level2">
+<h2></h2>
+<figure>
+<img src="/home/arb/Dropbox/Public/ImageBank/PromotingInteroperability.png" />
+</figure>
+</section>
+<section id="legal-interoperability" class="level2">
+<h2>Legal interoperability</h2>
+<blockquote>
+<p>the lack of a consistent and transparent legal and policy framework for sharing spatial data continues to be an additional roadblock.</p>
+</blockquote>
+<blockquote>
+<p><span class="citation" data-cites="pomfret_spatial_2010">(Pomfret &amp; Ramage 2010)</span></p>
+</blockquote>
+</section>
+</section>
+<section id="core-reference-geographies" class="level1">
+<h1><a href="http://www.slideshare.net/geocommunitylive/bob-barr-what-are-core-reference-geographies">Core reference geographies</a></h1>
+<section id="what-are-core-reference-geographies" class="level2">
+<h2>What are core reference geographies</h2>
+<p>Professor Bob Barr has described <a href="http://www.slideshare.net/geocommunitylive/bob-barr-what-are-core-reference-geographies">core reference geographies</a> as geographic data which:</p>
+<ul>
+<li>Are definitive</li>
+<li>Should be collected and maintained once and used many times</li>
+<li>Are Natural monopolies</li>
+<li>Have variable value in different appli cations</li>
+<li>Have highly elastic demand</li>
+</ul>
+</section>
+<section id="core-reference-geography-candidates" class="level2">
+<h2>Core reference geography candidates</h2>
+<ul>
+<li>Geodetic Framework</li>
+<li>Topographic Mapping (including height)</li>
+<li>Geographic Names</li>
+<li>Addresses</li>
+<li>Streets</li>
+<li>Land and Property Ownership</li>
+<li>Hydrology / Hydrography</li>
+<li>Statistical Boundaries</li>
+<li>Administrative Boundaries</li>
+</ul>
+<p>Much of this data is already available and collected by Public Bodies (some of whom may be independent trading arms - such as the Ordnance Survey). Some of these data may already being opened up as part of the UK governments Open Data agenda. Some of this data is very relevant to the projects. This is tied in with the view of Business Innovation and Skills and their white paper on <a href="https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/274979/bis-14-513-open-national-address-gazetteer.pdf"><em>An open National Address Gazetteer</em></a>.</p>
+</section>
+</section>
+<section id="references" class="level1">
+<h1>References</h1>
+<p>Cited:</p>
+<div class="references">
+<p>Appelo, J., 2010. Governance image. Available at: <a href="https://farm6.staticflickr.com/5204/5201270923_f02844bb41_z_d.jpg">https://farm6.staticflickr.com/5204/5201270923_f02844bb41_z_d.jpg</a> [Accessed February 17, 2015].</p>
+<p>Beck, A., 2015. Stufen schulischer integration. Available at: <a href="https://commons.wikimedia.org/wiki/File:Stufen_Schulischer_Integration_enGB.svg">https://commons.wikimedia.org/wiki/File:Stufen_Schulischer_Integration_enGB.svg</a> [Accessed February 23, 2015].</p>
+<p>BIS, 2014. <em>An open national address gazetteer</em>, Available at: <a href="https://www.gov.uk/government/publications/an-open-national-address-gazetteer">https://www.gov.uk/government/publications/an-open-national-address-gazetteer</a> [Accessed November 5, 2014].</p>
+<p>Crowley, C., 2009. Kibera photo. Available at: <a href="https://farm3.staticflickr.com/2497/3726821378_288b1800b9_o_d.jpg">https://farm3.staticflickr.com/2497/3726821378_288b1800b9_o_d.jpg</a> [Accessed February 17, 2015].</p>
+<p>Cummings, J., 2013. UK government wellebing. Available at: <a href="https://upload.wikimedia.org/wikipedia/commons/9/90/Personal_wellbeing_in_the_UK_2012_-_13.png">https://upload.wikimedia.org/wikipedia/commons/9/90/Personal_wellbeing_in_the_UK_2012_-_13.png</a> [Accessed February 23, 2015].</p>
+<p>Huffman, T., 2010. Haiti oSM mapping party. Available at: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OSM_Haiti_mapping_-_Mapping.jpg/640px-OSM_Haiti_mapping_-_Mapping.jpg">https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/OSM_Haiti_mapping_-_Mapping.jpg/640px-OSM_Haiti_mapping_-_Mapping.jpg</a> [Accessed February 23, 2015].</p>
+<p>Kaye, J., 2012. Fabric map. Available at: <a href="https://farm9.staticflickr.com/8334/8076658843_bb93c499c9_z_d.jpg">https://farm9.staticflickr.com/8334/8076658843_bb93c499c9_z_d.jpg</a> [Accessed February 23, 2015].</p>
+<p>Pavliga, J.M., 1992. Walking away from the third world. Available at: <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Walking_away_from_the_Third_World.jpg/640px-Walking_away_from_the_Third_World.jpg">https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Walking_away_from_the_Third_World.jpg/640px-Walking_away_from_the_Third_World.jpg</a> [Accessed February 23, 2015].</p>
+<p>Pomfret, K. &amp; Ramage, S., 2010. Spatial data infrastructures - more than directives. Directions magazine. Available at: <a href="http://www.directionsmag.com/entry/spatial-data-infrastructures-more-than-directives/142537">http://www.directionsmag.com/entry/spatial-data-infrastructures-more-than-directives/142537</a> [Accessed February 17, 2015].</p>
+<p>Steudler, D. &amp; Rajabifard, A., 2012. <em>Spatially enabled society</em>, Copenhagen: International Federation of Surveyors. Available at: <a href="http://www.fig.net/pub/figpub/pub58/figpub58.pdf">http://www.fig.net/pub/figpub/pub58/figpub58.pdf</a>.</p>
+<p>Tennison, J., 2014. Open addresses: Discovery phase. ODI. Available at: <a href="http://theodi.org/blog/open-addresses-discovery-phase">http://theodi.org/blog/open-addresses-discovery-phase</a> [Accessed November 5, 2014].</p>
+<p>UPU, 2012. <em>Addressing the world: an address for everyone</em>, Universal Postal Union. Available at: <a href="http://www.upu.int/en/activities/addressing/addressing-the-world-initiative.html">http://www.upu.int/en/activities/addressing/addressing-the-world-initiative.html</a> [Accessed November 5, 2014].</p>
+</div>
+</section>
+<section class="footnotes">
+<hr />
+<ol>
+<li id="fn1"><p>or if the political will is there but the financial ability is lacking<a href="#fnref1">↩</a></p></li>
+<li id="fn2"><p>a unique reference for UK addresses embedded within the National Land and Property Gazetteer and the AddressBase family of products.<a href="#fnref2">↩</a></p></li>
+<li id="fn3"><p>and likely to be significantly more complex if 1:10,000 mapping is required in rural environments<a href="#fnref3">↩</a></p></li>
+</ol>
+</section>
+</div>
+
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+
+<script>
+  // Full list of configuration options available here:
+  // https://github.com/hakimel/reveal.js#configuration
+  Reveal.initialize({
+    controls: true,
+    progress: true,
+    history: true,
+    center: false,
+
+  // available themes are in /css/theme
+      theme: Reveal.getQueryHash().theme || 'nightAnt', 
+  
+  // default/cube/page/concave/zoom/linear/fade/none
+      transition: Reveal.getQueryHash().transition || 'slide',
+  
+  // Optional libraries used to extend on reveal.js
+  dependencies: [
+    { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+    { src: 'plugin/markdown/showdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+    { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+    { src: 'plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+    { src: 'plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }
+    // { src: 'plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
+  ]
+  });
+
+</script>
+
+</body>
+</html>
