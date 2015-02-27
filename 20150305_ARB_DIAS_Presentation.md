@@ -295,7 +295,7 @@ requiring representations to be *openly* harmonised within the *semantic web*.
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0d/Mono_pensador.jpg)
 
-It must be **fit for purpose**.
+**fit for purpose?**
 
 # DAIS 
 
@@ -379,7 +379,7 @@ Incorporating wifi-triangulation - *individual room* addressing and navigation.
 
 ![@geodesic_grid_petersen_2007](http://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Geodesic_Grid_%28ISEA3H%29_illustrated.png/640px-Geodesic_Grid_%28ISEA3H%29_illustrated.png)
 
-Rapid analysis and reporting during disaster scenarios which does not require GIS.
+GIS free multi-scale analysis and reporting during disaster scenarios.
 
 ## Area representation based on a regular tessellation
 
