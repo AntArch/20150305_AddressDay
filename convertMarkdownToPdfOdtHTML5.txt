@@ -47,3 +47,7 @@ pandoc -t html5 --template=Presentation/template-revealjs.html \
   --variable theme="nightAnt" \
   --variable transition="slide" \
   20150305_ARB_DIAS_Presentation.md --filter pandoc-citeproc -o Presentation/20150305_ARB_DIAS_PresentationbeigeCube.html
+
+pandoc -f markdown -t latex -N -V geometry:margin=1in 20150305_ARB_DIAS_Presentation.md --filter pandoc-citeproc --latex-engine=xelatex -o Presentation/20150305_ARB_DIAS_Presentation.pdf
+
+pandoc -f markdown 20150305_ARB_DIAS_Presentation.md --filter pandoc-citeproc  --toc -o Presentation/20150305_ARB_DIAS_Presentation.odt

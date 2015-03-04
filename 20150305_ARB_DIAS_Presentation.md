@@ -56,6 +56,9 @@ You can access this presentation on github:
 ![@kaye_map_2012](https://farm9.staticflickr.com/8334/8076658843_bb93c499c9_z_d.jpg)
 
 
+## Economy and commerce
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_UPU.svg/640px-Flag_of_UPU.svg.png)
 
 ## Governance
 
@@ -99,10 +102,6 @@ You can access this presentation on github:
 
 * Addresses provide spatial structure.
 	* This helps to identify, locate and access marginalized areas.
-
-## Economy and commerce
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Flag_of_UPU.svg/640px-Flag_of_UPU.svg.png)
 
 ## Sustainability and risk management
 
@@ -393,17 +392,6 @@ It is still useable within traditional GIS.
 
 Understanding localised connectivity relations.
 
-# DAIS  - evolving
-
-![@how_platforms_learn_2014](https://farm8.staticflickr.com/7125/13852340903_cb33efc1b5_z_d.jpg)
-
-These criteria need to change to reflect need.
-
-.
-.
-
-**DAIS is a platform which can be built upon.**
-
 # DAIS can ....
 
 ## be used as a benchmark to evaluate technology candidates
@@ -441,6 +429,17 @@ Bob Barr has described [core reference geographies](http://www.slideshare.net/ge
 ## be used to get buy-in and build trust and credibility
 
 ![@trust_miemis_2010](https://farm5.staticflickr.com/4100/4757399524_6514646c1d_z_d.jpg)
+
+# DAIS  - evolving
+
+![@how_platforms_learn_2014](https://farm8.staticflickr.com/7125/13852340903_cb33efc1b5_z_d.jpg)
+
+These criteria need to change to reflect need.
+
+.
+.
+
+**DAIS is a platform which can be built upon.**
 
 # So what next......
 
