@@ -396,14 +396,19 @@ Understanding localised connectivity relations.
 
 ## be used as a benchmark to evaluate technology candidates
 
-For example (in alphabetical order):
+BCS examples (in alphabetical order):
 
 * [GeoHash](http://en.wikipedia.org/wiki/Geohash)
+	* gcpvj1r2vnbp
 * [Maidenhead Locator System](http://en.wikipedia.org/wiki/Maidenhead_Locator_System)
+	* IO91wm (it has a very large footprint)
 * [MapCode](http://www.mapcode.com/)
+	* GBR JD.VJ
 * [Natural Area Code](http://nactag.info/map.asp)
+	* 8KDB PGFD
 * [Pyxis](http://www.pyxisinnovation.com/)
 * [What3Words](http://what3words.com/)
+	* move slam stress
 
 ## be a tool to shape future addressing needs
 
